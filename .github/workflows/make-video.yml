@@ -29,6 +29,7 @@ jobs:
       - run: pip install -r requirements.txt
       - name: Make videos
         env:
+        PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
           IN_COUNT: ${{ github.event.inputs.count }}
           IN_TOPIC: ${{ github.event.inputs.topic }}
