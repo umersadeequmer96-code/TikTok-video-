@@ -1,0 +1,25 @@
+{
+  "videos_per_run": 3,
+  "clips_per_video": 8,
+  "clip_seconds_min": 3,
+  "clip_seconds_max": 5,
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "show_title": true,
+  "music_volume": 0.9,
+  "topics": [
+    {"query": "ocean waves", "title": "Ocean Calm", "hashtags": "#ocean #relax #calm #satisfying #fyp"},
+    {"query": "mountain nature", "title": "Peaceful Mountains", "hashtags": "#nature #mountains #peace #fyp"},
+    {"query": "rain window", "title": "Rainy Day Mood", "hashtags": "#rain #cozy #relaxing #fyp"},
+    {"query": "city night lights", "title": "City Lights", "hashtags": "#city #night #aesthetic #fyp"},
+    {"query": "forest sunlight", "title": "Forest Morning", "hashtags": "#forest #nature #sunlight #fyp"},
+    {"query": "sunset sky", "title": "Golden Sunset", "hashtags": "#sunset #sky #beautiful #fyp"},
+    {"query": "flowers blooming", "title": "Fresh Flowers", "hashtags": "#flowers #spring #beautiful #fyp"},
+    {"query": "waterfall", "title": "Waterfall Therapy", "hashtags": "#waterfall #nature #relax #fyp"},
+    {"query": "snow winter", "title": "Winter Magic", "hashtags": "#snow #winter #cozy #fyp"},
+    {"query": "coffee cozy", "title": "Cozy Coffee Time", "hashtags": "#coffee #cozy #aesthetic #fyp"},
+    {"query": "clouds timelapse", "title": "Sky Timelapse", "hashtags": "#clouds #timelapse #sky #fyp"},
+    {"query": "beach drone", "title": "Beach Vibes", "hashtags": "#beach #drone #summer #fyp"}
+  ]
+}
